@@ -1,1 +1,1 @@
-"Welcome to Logical and JUnitTesting Programs"
+"Welcome to Logical Programs"
